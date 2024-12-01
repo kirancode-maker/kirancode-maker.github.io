@@ -11,6 +11,6 @@ redirect_from:
 
 :school: I'm a final year PhD student at the Georgia Institute of Technology in the Department of Electrical and Computer Engineering.
 
-:research: My research interests lie in developing algorithms and inferential strategies for self supervised learning.
+:volcano: My research interests lie in developing algorithms and inferential strategies for self supervised learning.
 
-:community: I am also interested in the intersection of education and AI development.
+:earth_africa: I am also interested in the intersection of education and AI development.
