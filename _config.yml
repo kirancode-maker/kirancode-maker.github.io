@@ -21,7 +21,7 @@ repository               : "kirancode-maker/kirancode-maker.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chess.HEIC"
   name             : "Kiran Kokilepersaud"
   pronouns         : # example: "she/her"  
   bio              : "I am an AI PhD student interested in SSL and creative applications of SSL."
